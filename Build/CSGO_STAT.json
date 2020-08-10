@@ -2,9 +2,9 @@
 "companyName": "AshwinMods",
 "productName": "CSGO_STAT",
 "productVersion": "0.1",
-"dataUrl": "Builds.data.unityweb",
-"wasmCodeUrl": "Builds.wasm.code.unityweb",
-"wasmFrameworkUrl": "Builds.wasm.framework.unityweb",
+"dataUrl": "CSGO_STAT.data.unityweb",
+"wasmCodeUrl": "CSGO_STAT.wasm.code.unityweb",
+"wasmFrameworkUrl": "CSGO_STAT.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
@@ -12,5 +12,5 @@
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.1.0f2"
+"unityVersion": "2019.3.0f1"
 }
